@@ -1,0 +1,89 @@
+extra 
+
+<main>
+        <div class="carousel">
+            <div class="group">
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+            </div>
+            <div aria-hidden class="group">
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+                <div class="card">
+                    <img src="https://via.placeholder.com/300x200" alt="Placeholder Image">
+                </div>
+        </div>
+    </main>
+
+<a href="https://www.instagram.com/tomstevens_/" target="_blank">Instagram</a> | 
+            <a href="https://www.linkedin.com/in/tom-stevens-1b0b3b1b4/" target="_blank">LinkedIn</a> | 
+            <a href="mailto:tom.cj.stevens@gmail.com" target="_blank">Email</a>
+
+    <h2>Info and inquiries at</h2>
+        <section>   
+            <p>Mail me</p>  
+            <p>tom.cj.stevens@gmail.com</p>
+        </section> 
+        <section>   
+            <p>Let's talk</p>  
+            <p>tom.cj.stevens@gmail.com</p>
+        </section> 
